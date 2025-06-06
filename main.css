@@ -1,0 +1,201 @@
+body {
+  background-color: rgba(255, 68, 0, 0.9);
+  margin: 0px;
+  padding: 20px 60px ;
+  font-family: sans-serif;
+  
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: -20px;
+}
+
+.bd {
+  color: white;
+}
+
+.q {
+  background: white;
+  color: #ed7826;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.bu {
+  color: rgb(196, 193, 193);
+  text-shadow: 2px rgb(143, 175, 175);
+  margin-left: 0px;
+}
+
+.ta {
+  font-weight: bolder;
+  font-size: large;
+  margin: 0;
+  line-height: 1.2;
+  color: white;
+}
+
+.tb {
+  font-size: small;
+  font-weight: bold;
+  margin: 0;
+  color: white;
+}
+
+.ia {
+  margin-bottom: 10px;
+  color: white;
+  font-size: x-small;
+  font-weight: bolder;
+}
+
+.bx {
+  display: flex;
+  gap: 25px;
+}
+
+#ib, #ic {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px 25px;
+  border-radius: 15px;
+  font-size: x-small;
+  font-weight: bold;
+  color: rgba(255, 68, 0, 0.719);
+  width: 200px;
+  height: 40px;
+  margin: 20px 1px;
+}
+
+.ww {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 60px;
+  color: white;
+  gap: 60px;
+}
+
+.ww img {
+  margin-top: 25px;
+  width: 300px;
+  height: auto;
+}
+
+.ww-text h2 {
+  margin-bottom: 10px;
+}
+
+.ww-text p {
+  font-size: small;
+  line-height: 1.5;
+}
+.wic{
+    color: white;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+    /* nimeleta custom border karibu */
+}
+.cb{
+    color: white;
+    font-family: sans-serif;
+}
+#dc{
+    color: white;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+#dt{
+    color: white;
+    font-family: sans-serif;
+}
+#f{
+   display: flex;
+   justify-content: center;
+}
+.dc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.f {
+  background-color: rgba(255, 68, 0, 0.9);
+  padding: 30px;
+  width: 420px;
+  border-radius: 40px;
+  font-family: sans-serif;
+  color: #333;
+  margin-top:0px;
+}
+.br{
+    background-color:white;
+    padding: 10px;
+    border-radius: 45px;
+    display: inline-block;
+    margin-top: 60px;
+    
+}
+
+#dc {
+  color: white;
+  font-size: 1.6rem;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#dt {
+  font-size: 0.95rem;
+  margin-bottom: 20px;
+  color: white;
+  line-height: 1.5;
+}
+
+
+#fb {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  border-color: #ccc;
+
+}
+
+#fb input,
+#fb textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  font-family: sans-serif;
+}
+
+#fb textarea {
+  resize: vertical;
+  height: 100px;
+}
+
+#fb button {
+  background-color: white;
+  color:#ff5a00;
+  padding: 10px;
+  border: none;
+  font-weight: bold;
+  border-radius: 15px;
+  width: 200px;
+  margin-left: 100px;
+  font-size: 14px;
+
+}
+
+
+footer{
+    color: #ccc;
+    font-size: small;
+    margin-top: 10px;
+}
